@@ -27,5 +27,6 @@ The dashboard contains user-defined parameters. Upon selection, an instance of d
 
 NOTE: This tool is for demonstration purposes only, under normal circumstances model training takes many more iterations to gain competence! At the human-interpretable frame-rates used here this would take a huge length of time...
 
-[Dashboard Example](Example_Dashboard.png)
+<img width="1469" height="874" alt="Example_Dashboard" src="https://github.com/user-attachments/assets/53d397db-fecc-4120-8a80-6db3a8dc68e4" />
+
    
