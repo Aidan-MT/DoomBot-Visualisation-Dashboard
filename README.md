@@ -19,7 +19,7 @@ _NOTE: if desired, a virtual python environment may be created to avoid package 
 
 Run Streamlit dashboard in the terminal
 ```python
-streamlit run code/dashboard.py
+   streamlit run code/dashboard.py
 ```
 
 ## Dashboard Overview
