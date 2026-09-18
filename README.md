@@ -4,7 +4,7 @@ A basic dashboard visualising the performance of a Reinforcement Learning algori
 # Pre-Requisites
 Requires Python 3.14.2 or newer. 
 
-## Quickstart 
+## Quickstart (Linux/MacOS)
 Clone repository to any appropriate location
 ```bash
    git clone https://github.com/Aidan-MT/DoomBot-Visualisation-Dashboard.git
@@ -17,10 +17,15 @@ Install dependences
 ```
 _NOTE: if desired, a virtual python environment may be created to avoid package conflicts_
 
-Run Streamlit dashboard
+Run Streamlit dashboard in the terminal
 ```python
 streamlit run code/dashboard.py
 ```
 
+## Dashboard Overview
+The dashboard contains user-defined parameters. Upon selection, an instance of doom will be generated, and training information provided. 
 
+NOTE: This tool is for demonstration purposes only, under normal circumstances model training takes many more iterations to gain competence! At the human-interpretable frame-rates used here this would take a huge length of time...
+
+[Dashboard Example](Example_Dashboard.png)
    
